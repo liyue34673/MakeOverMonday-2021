@@ -1,4 +1,4 @@
 # MakeOverMonday-2021
-Record my every week's viz.
+Records of my everyweek's viz.
 
 My Tableau Public profile: https://public.tableau.com/profile/yue.li8679#!/
